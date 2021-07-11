@@ -1,0 +1,7 @@
+{
+	"variants":{
+		"":{
+		"model":"fem:block/example_block"
+		}
+	}
+}

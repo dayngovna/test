@@ -1,0 +1,8 @@
+{
+	"variants":{
+		"facing=north":{"model":"fem:block/display_case","y": 90},
+		"facing=south":{"model":"fem:block/display_case","y": 270},
+		"facing=east":{"model":"fem:block/display_case","y": 180},
+		"facing=west":{"model":"fem:block/display_case","y": 0}
+	}
+}
